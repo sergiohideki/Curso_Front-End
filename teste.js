@@ -1,1 +1,1 @@
-"testando conexão com o github "
+console.log("hello world !")
